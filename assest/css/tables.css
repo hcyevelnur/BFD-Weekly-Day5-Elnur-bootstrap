@@ -1,0 +1,128 @@
+@media (min-width: 767px) and (max-width: 1023px) {
+    .bg-image{
+        background-image: url(../img/111\(3\).jpeg) !important;
+    }
+
+    .superNav{
+        display: none;
+    }
+
+    .orta-card{
+        display: block !important;
+        text-align: -webkit-center;
+    }
+    .card-group{
+        display: block !important;
+        width: 60% !important;
+    }
+
+    .car-2-left{
+        padding-left: 0px !important;
+    }
+
+    br{
+        display: none;
+    }
+
+    .sozler-1{
+        font-size: 33px !important;
+    }
+
+    .logolar-orta{
+        display: block;
+        text-align: center;
+    }
+
+    .logo-ara{
+        padding-left: 0px !important;
+        padding-top: 50px !important;
+    }
+
+    .xanim-row{
+        display: block !important;
+    }
+
+    .res-xanim{
+        text-align: center !important;
+        padding-left: 0px !important;
+    }
+
+    .text-4{
+        width: 600px !important;
+    }
+    .text-5{
+        width: 600px !important;
+    }
+    .text-6{
+        width: 600px !important;
+    }
+
+    .benefis-row{
+        display: block !important;
+    }
+
+    .connta-2{
+        padding-left: 150px !important;
+    }
+
+    .benefis-2{
+        text-align: center !important;
+        padding-top: 600px !important;
+        padding-left: 0px !important;
+    }
+
+    .row-1-2-1{
+        display: block !important;
+        padding-left: calc(var(--bs-gutter-x) * 3.1) !important;
+    }
+
+    .text-top{
+        padding-left: 0px !important;
+        width: 600px !important;
+    }
+    .card-flex1{
+        display: block;
+        text-align: -webkit-center;
+        }
+
+    .card-rigt-1-1{
+        padding-left: 0px !important;
+    }
+    .card-witdh{
+        width: 600px !important;
+    }
+
+    .border-21 {
+        width: 600px !important;
+        height: auto !important;
+    }
+
+    .btn-top-1{
+        padding-top: 0px !important;
+        width: 200px !important;
+    }
+
+    .group-background-1{
+        width: auto;
+    }
+
+    .text-group-1{
+        width: 400px !important;
+    }
+
+    #mail{
+        display: none;
+    }
+
+    .shop-1-logo{
+        display: none;
+    }
+
+    .serch-1-logo{
+        display: none;
+    }
+
+    #view-txt{
+        padding-right: 0px !important;
+    }
+}

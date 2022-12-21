@@ -1,0 +1,141 @@
+@media only screen and (max-width: 767px){
+
+
+    .logolar-orta{
+        display: block;
+        text-align: center;
+    }
+    .logo-ara{
+        padding-top: 40px !important;
+        padding-left: 0px !important;
+    }
+    .text-1-1{
+        margin-left: -40px;
+        font-size: 41px;
+    }
+    .sozler-1{
+        font-size: 25px !important;
+    }
+    .shop-1-logo{
+        display: none;
+    }
+    .serch-1-logo{
+        display: none;
+    }
+
+    .card{
+        padding-left: 0px  !important;
+    }
+
+    br{
+        display: none;
+    }
+    .res-xanim{
+        padding-left: 0px !important;
+        font-size: 33px !important;
+    }
+    .text-4{
+        padding-left: 0px;
+    }
+    .text-5{
+        padding-left: 0px;
+    }
+    .text-6{
+        padding-left: 0px;
+    }
+
+    .xanim-row{
+        height: 720px !important;
+    }
+    .sekil4{
+        width: 300px;
+    }
+
+    .benefis-1{
+        padding-top: 380px !important;
+    }
+
+    .benefis-2{
+        padding-left: 60px !important;
+    }
+
+    .ust-border{
+        display: none;
+    }
+
+    .man-img{
+        width: 300px;
+    }
+
+    .row-1-2-1{
+padding-left: calc(var(--bs-gutter-x) * 0.0) !important;
+}
+
+    .text-top{
+        width: auto;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .btn-top-2{
+        text-align: center;
+    }
+
+    .col-md-5{
+        padding-left: calc(var(--bs-gutter-x) * 2.5) !important;
+    }
+    
+
+    #view-txt{
+        padding-right: 0px;
+        width: auto;
+        font-size: 32px;
+    }
+
+    .card-flex1{
+        padding-left: 15px;
+        display: block;
+    }
+
+    .card-rigt-1-1{
+        padding-left: 0px;
+    }
+
+    .man-sagg{
+        display: none;
+    }
+
+    .card-witdh{
+        width: 95%;
+    }
+
+    .yaxnlasdirma{
+        height: auto !important;
+    }
+
+    .res-top-img{
+        padding-top: 50px !important;
+    }
+
+    .group-flexx{
+        display: block;
+    }
+
+    .group-flexx{
+        padding-top: 70px;
+    }
+
+    .btn-top-1{
+        text-align: center;
+    }
+
+    .text-group-1{
+        text-align: center;
+        font-size: larger;
+    }
+
+    .bg-image{
+        justify-content: start;
+        background-image: url(../img/111-2.jpeg) !important;
+    }
+}
